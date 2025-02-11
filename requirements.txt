@@ -1,0 +1,8 @@
+pandas
+numpy
+networkx
+scikit-learn
+matplotlib
+geopandas
+contextily
+seaborn
